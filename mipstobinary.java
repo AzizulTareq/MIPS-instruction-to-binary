@@ -138,6 +138,7 @@ public class mipstobinary{
 			}
 		}
 	}
+	
 
 		public static void registerBinaryForJr(){
 			int counter;
